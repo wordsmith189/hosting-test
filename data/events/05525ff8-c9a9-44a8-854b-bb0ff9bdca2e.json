@@ -1,10 +1,10 @@
 {
   "audiovisual_files": {
     "8ab9d15f-11e5-4650-92e4-55acb68828fb": {
-      "label": "language_dripping springs_vr_07022024",
+      "label": "language_el paso_el_07202024",
       "is_offline": false,
-      "file_url": "https://merry-cascaron-b31cca.netlify.app//language_dripping springs_vr_07022024.m4a",
-      "duration": 865,
+      "file_url": "https://merry-cascaron-b31cca.netlify.app/language_el paso_el_07202024.m4a",
+      "duration": 896,
       "caption_set": []
     }
   },
@@ -24,6 +24,6 @@
   "label": "Hosting in Netlify 2",
   "created_at": "2024-11-26T19:31:58.272Z",
   "created_by": "wordsmith189",
-  "updated_at": "2024-11-26T19:31:58.272Z",
+  "updated_at": "2024-11-26T19:34:56.105Z",
   "updated_by": "wordsmith189"
 }
