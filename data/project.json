@@ -1,1 +1,52 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"wordsmith189","is_private":false,"title":"Different URL Options Test","description":"Testing different hosting options","language":"en","slug":"hosting-test","creator":"wordsmith189","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#ADFFD9","category":"Speaker"}],"tags":[{"category":"Speaker","tag":"Interviewer"},{"category":"Speaker","tag":"Participant"},{"category":"_uncategorized_","tag":"Speaker"}]},"created_at":"2024-11-26T19:08:54.538Z","updated_at":"2024-11-27T14:35:14.766Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "wordsmith189",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11275320?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "wordsmith189",
+    "is_private": false,
+    "title": "Different URL Options Test",
+    "description": "Testing different hosting options",
+    "language": "en",
+    "slug": "hosting-test",
+    "creator": "wordsmith189",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2024-11-26T19:08:54.538Z",
+    "updated_at": "2024-11-27T14:35:14.766Z",
+    "generate_pages_site": true
+  }
+}
